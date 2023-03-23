@@ -1,0 +1,8 @@
+use("platzi_store")
+
+db.products.find()
+db.stores.find()
+
+//641c6daad4ffe5f0b084f639
+
+//641c7220209806c8f7d09065
